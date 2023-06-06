@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(15, 14, 14);
+    /* background-image:url(11.jpeg); */
+
+}
+#container{
+    width: 750px; 
+    height: 300px;
+    background-color:rgba(8, 2, 64, 0.959);
+    border: 5px solid rgb(223, 237, 100);
+    margin: 160px auto;
+    text-align: center;
+    padding: 30px;
+
+}
+#btn{
+    margin: 70px auto;
+    height:50px ;
+    width: 300px; 
+    font-size: 22px;
+    background-color: rgb(220, 226, 43);
+    border: 3px dotted rgb(12, 177, 23);
+    text-decoration:underline;
+    
+}
+#output{
+    margin: -20px auto;
+    font-size: 26px;
+    color: aliceblue;
+}
